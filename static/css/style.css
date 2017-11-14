@@ -1,0 +1,27 @@
+/*@import "compass/css3";*/
+
+canvas {
+  z-index: -100
+}
+
+p {
+  color:white !important;
+  z-index: 100;
+  text-align: center;
+  font-size: 30px
+
+}
+
+h1 {
+  text-align: center;
+  color: white !important;
+}
+
+form {
+  justify-content: center;
+  color: white;
+  max-width: 600px;
+  margin: 0 auto;
+  color: white;
+
+}
